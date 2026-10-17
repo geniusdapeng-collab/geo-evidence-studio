@@ -170,3 +170,8 @@ pnpm geo:test
 ## License and attribution
 
 Apache-2.0. This project is derived from the WorkLoom acquisition system at commit `f608da6cfae516577bf3c2db3ee9478946a9ea76`. See [NOTICE](NOTICE) and the preserved [upstream README](docs/UPSTREAM-WORKLOOM-README.md).
+
+The original WorkLoom CNB, desktop packaging and UI-release workflows are
+preserved under `docs/upstream-workflows/` for attribution and reference. They
+are intentionally not under `.github/workflows/` because they require WorkLoom
+organization credentials and are not part of the GeoEvidence build.
