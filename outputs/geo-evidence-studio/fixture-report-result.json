@@ -1,0 +1,393 @@
+{
+  "jsonPath": "/Users/mac/Documents/Codex/2026-10-17/geo-growth-geo/work/geo-evidence-studio/outputs/geo-evidence-studio/fixture-report/summary.json",
+  "markdownPath": "/Users/mac/Documents/Codex/2026-10-17/geo-growth-geo/work/geo-evidence-studio/outputs/geo-evidence-studio/fixture-report/REPORT.md",
+  "summary": {
+    "case": {
+      "id": "future-frontdesk",
+      "name": "苏州未来前台 GEO 证据案例",
+      "brand": {
+        "canonicalName": "苏州未来前台",
+        "aliases": [
+          "苏州未来前台人工智能科技有限公司",
+          "苏州未来前台",
+          "未来前台"
+        ],
+        "shortAlias": "未来前台",
+        "shortAliasContextTerms": [
+          "苏州",
+          "昆山",
+          "花桥",
+          "酒店",
+          "AI",
+          "智慧",
+          "自助",
+          "入住",
+          "发卡",
+          "一体机",
+          "品牌",
+          "公司",
+          "官网",
+          "售后"
+        ],
+        "ownedDomains": [],
+        "confirmed": {
+          "name": true,
+          "legalEntity": false,
+          "products": false,
+          "models": false,
+          "ownedDomains": false
+        }
+      },
+      "products": [
+        "酒店自助入住机",
+        "酒店前台自助机",
+        "酒店自助发卡机",
+        "酒店入住一体机"
+      ],
+      "competitors": [],
+      "candidateResearch": [
+        {
+          "statement": "公开搜索候选法定主体为苏州未来前台人工智能科技有限公司。",
+          "status": "reported",
+          "sources": [
+            "https://js.cnr.cn/rdzt/qnjs/qnjsgdxw/20260203/t20260203_527514589.shtml",
+            "https://baike.baidu.com/item/%E8%8B%8F%E5%B7%9E%E6%9C%AA%E6%9D%A5%E5%89%8D%E5%8F%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/54031291"
+          ],
+          "note": "不同公开来源的法人和资质信息存在差异，发布前必须用营业执照和客户书面确认核验。"
+        },
+        {
+          "statement": "公开报道提到AI智慧前台、酒店自助入住和支付宝碰一下入住等产品方向。",
+          "status": "reported",
+          "sources": [
+            "https://js.cnr.cn/rdzt/qnjs/qnjsgdxw/20260203/t20260203_527514589.shtml",
+            "https://news.2500sz.com/doc/2026/02/04/1194375.shtml"
+          ],
+          "note": "产品型号、功能和覆盖范围必须由客户提供官方资料，不能以媒体摘要代替。"
+        }
+      ],
+      "negativeDomains": [],
+      "positiveTerms": [
+        "推荐",
+        "适合",
+        "稳定",
+        "可靠",
+        "省心",
+        "高效",
+        "方便",
+        "专业",
+        "及时"
+      ],
+      "negativeTerms": [
+        "不好用",
+        "不推荐",
+        "故障",
+        "不稳定",
+        "售后差",
+        "响应慢",
+        "不能用",
+        "难用",
+        "卡顿",
+        "泄露",
+        "乱收费",
+        "投诉多",
+        "投诉率高",
+        "大量投诉",
+        "被投诉",
+        "退货",
+        "欺诈",
+        "骗子"
+      ],
+      "sourceNotes": [
+        "品牌名称来自客户需求，公开搜索出现候选法定主体，但仍需客户书面确认。",
+        "产品名称是问题设计用词，不代表客户已确认具体型号。",
+        "竞品和负面来源清单必须由客户在首轮评审中确认。",
+        "“未来前台”是泛语义词，品牌统计必须结合苏州、酒店、自助、AI智慧前台等上下文消歧。"
+      ]
+    },
+    "runId": null,
+    "metrics": {
+      "totalSamples": 100,
+      "successfulSamples": 100,
+      "successRate": 1,
+      "evidenceCoverageRate": 1,
+      "mentionRate": 0.41,
+      "mentionRate95": {
+        "low": 0.31867157095664655,
+        "high": 0.5079874943890338
+      },
+      "firstRecommendationRate": 0.41,
+      "citationPresenceRate": 1,
+      "ownedCitationRate": null,
+      "brandNegativeMentionRate": 0.12195121951219512,
+      "negativeExposureRate": 0.05,
+      "negativeCitationRate": 0,
+      "industryNegativeRate": 0.14,
+      "brandSafetyRate": 0.8780487804878049,
+      "shareOfVoice": null,
+      "brandMentionedSamples": 41,
+      "brandNegativeSamples": 5,
+      "industryNegativeSamples": 14
+    },
+    "byCategory": [
+      {
+        "key": "brand",
+        "metrics": {
+          "totalSamples": 20,
+          "successfulSamples": 20,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 1,
+          "mentionRate95": {
+            "low": 0.8388698745050668,
+            "high": 0.9999999999999999
+          },
+          "firstRecommendationRate": 1,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": 0.2,
+          "negativeExposureRate": 0.2,
+          "negativeCitationRate": 0,
+          "industryNegativeRate": 0,
+          "brandSafetyRate": 0.8,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 20,
+          "brandNegativeSamples": 4,
+          "industryNegativeSamples": 0
+        }
+      },
+      {
+        "key": "category",
+        "metrics": {
+          "totalSamples": 25,
+          "successfulSamples": 25,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 0.2,
+          "mentionRate95": {
+            "low": 0.08860454100652487,
+            "high": 0.3913133553653824
+          },
+          "firstRecommendationRate": 0.2,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": 0,
+          "negativeExposureRate": 0,
+          "negativeCitationRate": 0,
+          "industryNegativeRate": 0,
+          "brandSafetyRate": 1,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 5,
+          "brandNegativeSamples": 0,
+          "industryNegativeSamples": 0
+        }
+      },
+      {
+        "key": "compare",
+        "metrics": {
+          "totalSamples": 15,
+          "successfulSamples": 15,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 1,
+          "mentionRate95": {
+            "low": 0.7961107336956521,
+            "high": 1
+          },
+          "firstRecommendationRate": 1,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": 0,
+          "negativeExposureRate": 0,
+          "negativeCitationRate": 0,
+          "industryNegativeRate": 0,
+          "brandSafetyRate": 1,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 15,
+          "brandNegativeSamples": 0,
+          "industryNegativeSamples": 0
+        }
+      },
+      {
+        "key": "risk",
+        "metrics": {
+          "totalSamples": 15,
+          "successfulSamples": 15,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 0.06666666666666667,
+          "mentionRate95": {
+            "low": 0.011866588606194883,
+            "high": 0.2981707755242399
+          },
+          "firstRecommendationRate": 0.06666666666666667,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": 1,
+          "negativeExposureRate": 0.06666666666666667,
+          "negativeCitationRate": 0,
+          "industryNegativeRate": 0.9333333333333333,
+          "brandSafetyRate": 0,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 1,
+          "brandNegativeSamples": 1,
+          "industryNegativeSamples": 14
+        }
+      },
+      {
+        "key": "scene",
+        "metrics": {
+          "totalSamples": 25,
+          "successfulSamples": 25,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 0,
+          "mentionRate95": {
+            "low": 0,
+            "high": 0.13319649395317873
+          },
+          "firstRecommendationRate": 0,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": null,
+          "negativeExposureRate": 0,
+          "negativeCitationRate": null,
+          "industryNegativeRate": 0,
+          "brandSafetyRate": null,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 0,
+          "brandNegativeSamples": 0,
+          "industryNegativeSamples": 0
+        }
+      }
+    ],
+    "byPlatform": [
+      {
+        "key": "fixture",
+        "metrics": {
+          "totalSamples": 100,
+          "successfulSamples": 100,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 0.41,
+          "mentionRate95": {
+            "low": 0.31867157095664655,
+            "high": 0.5079874943890338
+          },
+          "firstRecommendationRate": 0.41,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": 0.12195121951219512,
+          "negativeExposureRate": 0.05,
+          "negativeCitationRate": 0,
+          "industryNegativeRate": 0.14,
+          "brandSafetyRate": 0.8780487804878049,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 41,
+          "brandNegativeSamples": 5,
+          "industryNegativeSamples": 14
+        }
+      }
+    ],
+    "latestRuns": [
+      {
+        "id": "run-0d70aa2c-1fee-4ae5-aa51-de2c15eabc67",
+        "case_id": "future-frontdesk",
+        "provider": "fixture",
+        "data_mode": "fixture",
+        "platform": "fixture",
+        "model": "fixture-rules/v1",
+        "status": "completed",
+        "requested_limit": 100,
+        "planned_samples": 100,
+        "successful_samples": 100,
+        "failed_samples": 0,
+        "started_at": "2026-10-17T14:18:33.390Z",
+        "finished_at": "2026-10-17T14:18:33.446Z",
+        "notes_json": "[]",
+        "notes": []
+      }
+    ],
+    "incidents": [
+      {
+        "id": "incident-e4d69e60-bde9-4955-bd78-5f3f6189d80e",
+        "sample_id": "sample-c592b39c-7fad-4050-aa57-5b277daad296",
+        "query_id": "ffd-risk-095",
+        "severity": "P0",
+        "kind": "brand_negative_mention",
+        "claim": "关于酒店自助机故障问题，苏州未来前台某型号被反馈发卡失败后恢复较慢，需要人工前台介入。",
+        "source_urls_json": "[]",
+        "status": "open",
+        "created_at": "2026-10-17T14:18:33.420Z",
+        "query_text": "酒店自助机系统升级收费合理吗",
+        "platform": "fixture",
+        "answer": "关于酒店自助机故障问题，苏州未来前台某型号被反馈发卡失败后恢复较慢，需要人工前台介入。这个结论来自演示夹具，真实项目必须用原始答案和来源替换。[行业讨论](https://example.com/hotel-self-service-risk)",
+        "sourceUrls": []
+      },
+      {
+        "id": "incident-167d3b29-8217-45e8-ba67-f51e73455077",
+        "sample_id": "sample-ed606299-ce2d-44ba-85e5-cc116132f9a9",
+        "query_id": "ffd-brand-018",
+        "severity": "P0",
+        "kind": "brand_negative_mention",
+        "claim": "有用户反馈未来前台这类酒店自助机在高峰时段可能响应慢，售后体验也需要结合门店情况核实。",
+        "source_urls_json": "[]",
+        "status": "open",
+        "created_at": "2026-10-17T14:18:33.415Z",
+        "query_text": "苏州未来前台酒店自助发卡机怎么采购",
+        "platform": "fixture",
+        "answer": "有用户反馈未来前台这类酒店自助机在高峰时段可能响应慢，售后体验也需要结合门店情况核实。这里讨论的是行业现象，不能直接推断为苏州未来前台的产品问题。建议查看真实工单与服务记录。[品牌资料](https://future-frontdesk.example/brand)",
+        "sourceUrls": []
+      },
+      {
+        "id": "incident-8ad83012-fe40-4e9c-ac44-9ec4b2dd44a4",
+        "sample_id": "sample-499916e8-d637-47d7-93d6-c71fc2568ddc",
+        "query_id": "ffd-brand-017",
+        "severity": "P0",
+        "kind": "brand_negative_mention",
+        "claim": "有用户反馈未来前台这类酒店自助机在高峰时段可能响应慢，售后体验也需要结合门店情况核实。",
+        "source_urls_json": "[]",
+        "status": "open",
+        "created_at": "2026-10-17T14:18:33.415Z",
+        "query_text": "未来前台酒店自助机是正规品牌吗",
+        "platform": "fixture",
+        "answer": "有用户反馈未来前台这类酒店自助机在高峰时段可能响应慢，售后体验也需要结合门店情况核实。这里讨论的是行业现象，不能直接推断为苏州未来前台的产品问题。建议查看真实工单与服务记录。[品牌资料](https://future-frontdesk.example/brand)",
+        "sourceUrls": []
+      },
+      {
+        "id": "incident-1ac87eb9-5712-42b7-8987-a6ac393e4aac",
+        "sample_id": "sample-430082ee-6de1-4fcf-bf6f-3acf11ea8a8a",
+        "query_id": "ffd-brand-008",
+        "severity": "P0",
+        "kind": "brand_negative_mention",
+        "claim": "有用户反馈未来前台这类酒店自助机在高峰时段可能响应慢，售后体验也需要结合门店情况核实。",
+        "source_urls_json": "[]",
+        "status": "open",
+        "created_at": "2026-10-17T14:18:33.402Z",
+        "query_text": "苏州未来前台售后怎么样",
+        "platform": "fixture",
+        "answer": "有用户反馈未来前台这类酒店自助机在高峰时段可能响应慢，售后体验也需要结合门店情况核实。这里讨论的是行业现象，不能直接推断为苏州未来前台的产品问题。建议查看真实工单与服务记录。[品牌资料](https://future-frontdesk.example/brand)",
+        "sourceUrls": []
+      },
+      {
+        "id": "incident-d2d4dc68-2d9a-44ab-a3aa-337ef8a1d8cc",
+        "sample_id": "sample-6a0c6da8-d717-4a55-b59b-3a7f78a2e7ed",
+        "query_id": "ffd-brand-007",
+        "severity": "P0",
+        "kind": "brand_negative_mention",
+        "claim": "有用户反馈未来前台这类酒店自助机在高峰时段可能响应慢，售后体验也需要结合门店情况核实。",
+        "source_urls_json": "[]",
+        "status": "open",
+        "created_at": "2026-10-17T14:18:33.401Z",
+        "query_text": "苏州未来前台官网是哪一个",
+        "platform": "fixture",
+        "answer": "有用户反馈未来前台这类酒店自助机在高峰时段可能响应慢，售后体验也需要结合门店情况核实。这里讨论的是行业现象，不能直接推断为苏州未来前台的产品问题。建议查看真实工单与服务记录。[品牌资料](https://future-frontdesk.example/brand)",
+        "sourceUrls": []
+      }
+    ],
+    "publicationCount": 1,
+    "dataModes": [
+      "fixture"
+    ],
+    "generatedAt": "2026-10-17T14:18:33.947Z"
+  }
+}

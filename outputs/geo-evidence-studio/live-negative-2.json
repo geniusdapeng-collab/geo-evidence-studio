@@ -1,0 +1,34 @@
+{
+  "runId": "run-44ecbb9a-906d-4bde-8982-70fa0384c15e",
+  "status": "completed",
+  "provider": "deepseek-search",
+  "dataMode": "real",
+  "platform": "deepseek",
+  "planned": 2,
+  "successful": 2,
+  "failed": 0,
+  "metrics": {
+    "totalSamples": 2,
+    "successfulSamples": 2,
+    "successRate": 1,
+    "evidenceCoverageRate": 1,
+    "mentionRate": 1,
+    "mentionRate95": {
+      "low": 0.34237195288961925,
+      "high": 1
+    },
+    "firstRecommendationRate": 1,
+    "citationPresenceRate": 1,
+    "ownedCitationRate": null,
+    "brandNegativeMentionRate": 0,
+    "negativeExposureRate": 0,
+    "negativeCitationRate": 0,
+    "industryNegativeRate": 0.5,
+    "brandSafetyRate": 1,
+    "shareOfVoice": null,
+    "brandMentionedSamples": 2,
+    "brandNegativeSamples": 0,
+    "industryNegativeSamples": 1
+  },
+  "notes": []
+}

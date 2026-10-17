@@ -1,0 +1,34 @@
+{
+  "runId": "run-0d70aa2c-1fee-4ae5-aa51-de2c15eabc67",
+  "status": "completed",
+  "provider": "fixture",
+  "dataMode": "fixture",
+  "platform": "fixture",
+  "planned": 100,
+  "successful": 100,
+  "failed": 0,
+  "metrics": {
+    "totalSamples": 100,
+    "successfulSamples": 100,
+    "successRate": 1,
+    "evidenceCoverageRate": 1,
+    "mentionRate": 0.41,
+    "mentionRate95": {
+      "low": 0.31867157095664655,
+      "high": 0.5079874943890338
+    },
+    "firstRecommendationRate": 0.41,
+    "citationPresenceRate": 1,
+    "ownedCitationRate": null,
+    "brandNegativeMentionRate": 0.12195121951219512,
+    "negativeExposureRate": 0.05,
+    "negativeCitationRate": 0,
+    "industryNegativeRate": 0.14,
+    "brandSafetyRate": 0.8780487804878049,
+    "shareOfVoice": null,
+    "brandMentionedSamples": 41,
+    "brandNegativeSamples": 5,
+    "industryNegativeSamples": 14
+  },
+  "notes": []
+}

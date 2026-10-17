@@ -1,0 +1,24 @@
+name: geo-evidence-ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        with:
+          node-version: 24
+      - name: Run GeoEvidence tests
+        run: node --test apps/geo-evidence-studio/test/*.test.mjs
+      - name: Verify deterministic bundle digest
+        run: |
+          before=$(sha256sum bundles/geo-growth/bundle.json | cut -d' ' -f1)
+          node scripts/refresh-geo-evidence-bundle.mjs >/tmp/digest.json
+          after=$(sha256sum bundles/geo-growth/bundle.json | cut -d' ' -f1)
+          test "$before" = "$after"

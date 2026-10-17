@@ -1,0 +1,24 @@
+{
+  "desktop": {
+    "title": "GeoEvidence Studio",
+    "metrics": [
+      "41.0%",
+      "41.0%",
+      "100.0%",
+      "N/A",
+      "12.2%",
+      "0.0%"
+    ],
+    "queryCount": "100 queries",
+    "incidents": "5",
+    "articles": 10,
+    "errors": []
+  },
+  "mobile": {
+    "overflow": {
+      "scrollWidth": 390,
+      "innerWidth": 390
+    },
+    "pass": true
+  }
+}

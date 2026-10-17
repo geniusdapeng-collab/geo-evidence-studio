@@ -1,0 +1,28 @@
+{
+  "runId": "run-de215127-bdac-4e76-982d-3537d61bbd99",
+  "updated": 8,
+  "brandNegativeSamples": 0,
+  "metrics": {
+    "totalSamples": 8,
+    "successfulSamples": 8,
+    "successRate": 1,
+    "evidenceCoverageRate": 1,
+    "mentionRate": 0.375,
+    "mentionRate95": {
+      "low": 0.13684175946152105,
+      "high": 0.6942621454161981
+    },
+    "firstRecommendationRate": 0.25,
+    "citationPresenceRate": 1,
+    "ownedCitationRate": null,
+    "brandNegativeMentionRate": 0,
+    "negativeExposureRate": 0,
+    "negativeCitationRate": 0,
+    "industryNegativeRate": 0.5,
+    "brandSafetyRate": 1,
+    "shareOfVoice": null,
+    "brandMentionedSamples": 3,
+    "brandNegativeSamples": 0,
+    "industryNegativeSamples": 4
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "jsonPath": "/Users/mac/Documents/Codex/2026-10-17/geo-growth-geo/work/geo-evidence-studio/outputs/geo-evidence-studio/live-report/summary.json",
+  "markdownPath": "/Users/mac/Documents/Codex/2026-10-17/geo-growth-geo/work/geo-evidence-studio/outputs/geo-evidence-studio/live-report/REPORT.md",
+  "summary": {
+    "case": {
+      "id": "future-frontdesk",
+      "name": "苏州未来前台 GEO 证据案例",
+      "brand": {
+        "canonicalName": "苏州未来前台",
+        "aliases": [
+          "苏州未来前台人工智能科技有限公司",
+          "苏州未来前台",
+          "未来前台"
+        ],
+        "shortAlias": "未来前台",
+        "shortAliasContextTerms": [
+          "苏州",
+          "昆山",
+          "花桥",
+          "酒店",
+          "AI",
+          "智慧",
+          "自助",
+          "入住",
+          "发卡",
+          "一体机",
+          "品牌",
+          "公司",
+          "官网",
+          "售后"
+        ],
+        "ownedDomains": [],
+        "confirmed": {
+          "name": true,
+          "legalEntity": false,
+          "products": false,
+          "models": false,
+          "ownedDomains": false
+        }
+      },
+      "products": [
+        "酒店自助入住机",
+        "酒店前台自助机",
+        "酒店自助发卡机",
+        "酒店入住一体机"
+      ],
+      "competitors": [],
+      "candidateResearch": [
+        {
+          "statement": "公开搜索候选法定主体为苏州未来前台人工智能科技有限公司。",
+          "status": "reported",
+          "sources": [
+            "https://js.cnr.cn/rdzt/qnjs/qnjsgdxw/20260203/t20260203_527514589.shtml",
+            "https://baike.baidu.com/item/%E8%8B%8F%E5%B7%9E%E6%9C%AA%E6%9D%A5%E5%89%8D%E5%8F%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/54031291"
+          ],
+          "note": "不同公开来源的法人和资质信息存在差异，发布前必须用营业执照和客户书面确认核验。"
+        },
+        {
+          "statement": "公开报道提到AI智慧前台、酒店自助入住和支付宝碰一下入住等产品方向。",
+          "status": "reported",
+          "sources": [
+            "https://js.cnr.cn/rdzt/qnjs/qnjsgdxw/20260203/t20260203_527514589.shtml",
+            "https://news.2500sz.com/doc/2026/02/04/1194375.shtml"
+          ],
+          "note": "产品型号、功能和覆盖范围必须由客户提供官方资料，不能以媒体摘要代替。"
+        }
+      ],
+      "negativeDomains": [],
+      "positiveTerms": [
+        "推荐",
+        "适合",
+        "稳定",
+        "可靠",
+        "省心",
+        "高效",
+        "方便",
+        "专业",
+        "及时"
+      ],
+      "negativeTerms": [
+        "不好用",
+        "不推荐",
+        "故障",
+        "不稳定",
+        "售后差",
+        "响应慢",
+        "不能用",
+        "难用",
+        "卡顿",
+        "泄露",
+        "乱收费",
+        "投诉多",
+        "投诉率高",
+        "大量投诉",
+        "被投诉",
+        "退货",
+        "欺诈",
+        "骗子"
+      ],
+      "sourceNotes": [
+        "品牌名称来自客户需求，公开搜索出现候选法定主体，但仍需客户书面确认。",
+        "产品名称是问题设计用词，不代表客户已确认具体型号。",
+        "竞品和负面来源清单必须由客户在首轮评审中确认。",
+        "“未来前台”是泛语义词，品牌统计必须结合苏州、酒店、自助、AI智慧前台等上下文消歧。"
+      ]
+    },
+    "runId": "run-de215127-bdac-4e76-982d-3537d61bbd99",
+    "metrics": {
+      "totalSamples": 8,
+      "successfulSamples": 8,
+      "successRate": 1,
+      "evidenceCoverageRate": 1,
+      "mentionRate": 0.375,
+      "mentionRate95": {
+        "low": 0.13684175946152105,
+        "high": 0.6942621454161981
+      },
+      "firstRecommendationRate": 0.25,
+      "citationPresenceRate": 1,
+      "ownedCitationRate": null,
+      "brandNegativeMentionRate": 0,
+      "negativeExposureRate": 0,
+      "negativeCitationRate": 0,
+      "industryNegativeRate": 0.5,
+      "brandSafetyRate": 1,
+      "shareOfVoice": null,
+      "brandMentionedSamples": 3,
+      "brandNegativeSamples": 0,
+      "industryNegativeSamples": 4
+    },
+    "byCategory": [
+      {
+        "key": "brand",
+        "metrics": {
+          "totalSamples": 2,
+          "successfulSamples": 2,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 1,
+          "mentionRate95": {
+            "low": 0.34237195288961925,
+            "high": 1
+          },
+          "firstRecommendationRate": 1,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": 0,
+          "negativeExposureRate": 0,
+          "negativeCitationRate": 0,
+          "industryNegativeRate": 0.5,
+          "brandSafetyRate": 1,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 2,
+          "brandNegativeSamples": 0,
+          "industryNegativeSamples": 1
+        }
+      },
+      {
+        "key": "category",
+        "metrics": {
+          "totalSamples": 2,
+          "successfulSamples": 2,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 0.5,
+          "mentionRate95": {
+            "low": 0.09452865480086614,
+            "high": 0.9054713451991339
+          },
+          "firstRecommendationRate": 0,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": 0,
+          "negativeExposureRate": 0,
+          "negativeCitationRate": 0,
+          "industryNegativeRate": 0,
+          "brandSafetyRate": 1,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 1,
+          "brandNegativeSamples": 0,
+          "industryNegativeSamples": 0
+        }
+      },
+      {
+        "key": "compare",
+        "metrics": {
+          "totalSamples": 1,
+          "successfulSamples": 1,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 0,
+          "mentionRate95": {
+            "low": 0,
+            "high": 0.7934567085261071
+          },
+          "firstRecommendationRate": 0,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": null,
+          "negativeExposureRate": 0,
+          "negativeCitationRate": null,
+          "industryNegativeRate": 0,
+          "brandSafetyRate": null,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 0,
+          "brandNegativeSamples": 0,
+          "industryNegativeSamples": 0
+        }
+      },
+      {
+        "key": "risk",
+        "metrics": {
+          "totalSamples": 2,
+          "successfulSamples": 2,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 0,
+          "mentionRate95": {
+            "low": 0,
+            "high": 0.6576280471103807
+          },
+          "firstRecommendationRate": 0,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": null,
+          "negativeExposureRate": 0,
+          "negativeCitationRate": null,
+          "industryNegativeRate": 1,
+          "brandSafetyRate": null,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 0,
+          "brandNegativeSamples": 0,
+          "industryNegativeSamples": 2
+        }
+      },
+      {
+        "key": "scene",
+        "metrics": {
+          "totalSamples": 1,
+          "successfulSamples": 1,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 0,
+          "mentionRate95": {
+            "low": 0,
+            "high": 0.7934567085261071
+          },
+          "firstRecommendationRate": 0,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": null,
+          "negativeExposureRate": 0,
+          "negativeCitationRate": null,
+          "industryNegativeRate": 1,
+          "brandSafetyRate": null,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 0,
+          "brandNegativeSamples": 0,
+          "industryNegativeSamples": 1
+        }
+      }
+    ],
+    "byPlatform": [
+      {
+        "key": "deepseek",
+        "metrics": {
+          "totalSamples": 8,
+          "successfulSamples": 8,
+          "successRate": 1,
+          "evidenceCoverageRate": 1,
+          "mentionRate": 0.375,
+          "mentionRate95": {
+            "low": 0.13684175946152105,
+            "high": 0.6942621454161981
+          },
+          "firstRecommendationRate": 0.25,
+          "citationPresenceRate": 1,
+          "ownedCitationRate": null,
+          "brandNegativeMentionRate": 0,
+          "negativeExposureRate": 0,
+          "negativeCitationRate": 0,
+          "industryNegativeRate": 0.5,
+          "brandSafetyRate": 1,
+          "shareOfVoice": null,
+          "brandMentionedSamples": 3,
+          "brandNegativeSamples": 0,
+          "industryNegativeSamples": 4
+        }
+      }
+    ],
+    "latestRuns": [
+      {
+        "id": "run-de215127-bdac-4e76-982d-3537d61bbd99",
+        "case_id": "future-frontdesk",
+        "provider": "deepseek-search",
+        "data_mode": "real",
+        "platform": "deepseek",
+        "model": "deepseek-flash",
+        "status": "completed",
+        "requested_limit": 8,
+        "planned_samples": 8,
+        "successful_samples": 8,
+        "failed_samples": 0,
+        "started_at": "2026-10-17T14:13:21.745Z",
+        "finished_at": "2026-10-17T14:14:43.597Z",
+        "notes_json": "[]",
+        "notes": []
+      }
+    ],
+    "incidents": [],
+    "publicationCount": 0,
+    "dataModes": [
+      "real"
+    ],
+    "generatedAt": "2026-10-17T14:16:08.562Z"
+  }
+}
