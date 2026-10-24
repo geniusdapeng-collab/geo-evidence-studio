@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "workloom.repository/v1",
+  "logicalId": "geo-evidence-studio",
+  "productId": "workloom-ai-acquisition",
+  "lane": "config-only-discovered",
+  "primaryPlatform": "github",
+  "github": {
+    "repository": "geniusdapeng-collab/geo-evidence-studio",
+    "url": "https://github.com/geniusdapeng-collab/geo-evidence-studio",
+    "branch": "main"
+  },
+  "cnb": null,
+  "mirrorPolicy": {
+    "platform": "cnb",
+    "mode": "deferred",
+    "automaticProductSync": false,
+    "configBackupBranchPrefix": "workloom/config-backup/"
+  },
+  "baseSync": {
+    "receive": "none",
+    "reflux": "none"
+  },
+  "registry": {
+    "repository": "geniusdapeng-collab/workloom-im",
+    "path": "sync/repository-registry.json"
+  }
+}
