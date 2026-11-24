@@ -1,30 +1,5 @@
 # GeoEvidence Studio
 
-A GEO evidence workspace for brand and editorial teams. Track where AI answers mention your brand, which sources they cite, and where the evidence calls for a correction.
-
-[简体中文](README.md) · [Architecture](docs/ARCHITECTURE.md)
-
-## One observation round
-
-Start from approved facts and a question set. Collect answers and citations, identify risks or gaps, prioritize updates, and measure what changes in the next observation round.
-
-The dashboard connects an answer to the question, collection time, and citations behind it. The same record helps a team review risky claims and decide which public facts or content to improve.
-
-## Try the example
-
-The included Future Front Desk case gives you a fixture run for the dashboard, metrics, and draft workflow. The manual below explains how to configure real research. The dashboard identifies fixture and real observations, and publishing depends on destination-specific authorization and receipts.
-
-![Example GEO evidence dashboard](outputs/geo-evidence-studio/geo-evidence-dashboard.png)
-
-[Agent instructions](AGENTS.md) · [License](LICENSE)
-
-## Setup, integration, and technical reference
-
-<details>
-<summary>Expand the project manual and agent instructions</summary>
-
-# GeoEvidence Studio
-
 [中文说明](README.md)
 
 **Evidence-first GEO operations for AI answer visibility, citation intelligence, brand safety, content and publishing.**
@@ -202,6 +177,3 @@ The original WorkLoom CNB, desktop packaging and UI-release workflows are
 preserved under `docs/upstream-workflows/` for attribution and reference. They
 are intentionally not under `.github/workflows/` because they require WorkLoom
 organization credentials and are not part of the GeoEvidence build.
-
-
-</details>
