@@ -1,5 +1,34 @@
 # GeoEvidence Studio
 
+一个面向品牌和内容团队的 GEO 证据工作台。它追踪 AI 在哪些问题里提到品牌、使用哪些引用、出现哪些事实或声誉问题。
+
+[English](README.en.md) · [负责人使用指南](docs/客户业务负责人使用指南.md) · [系统架构](docs/ARCHITECTURE.md)
+
+## 一轮工作怎么做
+
+先确认可公开的事实与问题集，再采集回答和引用，区分品牌提及、同名误认与负面样本。团队可用证据决定补充哪些内容，并在下一轮复测变化。
+
+| 要回答的问题 | 工作台提供的依据 |
+| --- | --- |
+| 哪些问题会出现品牌 | 问题集、回答样本、采集时间与提及指标 |
+| AI 的说法来自哪里 | 引用 URL、可复核来源与关联回答 |
+| 哪些问题值得处理 | 负面或事实差异、待核对证据与内容草稿 |
+
+## 看一次完整流程
+
+仓库已有「未来前台」案例。先用夹具跑通采集、指标和草稿，再按项目手册配置真实采集。看板会区分夹具、导入样本和真实研究。对外发布按目的地授权并取得回执。
+
+![GEO 证据看板示例](outputs/geo-evidence-studio/geo-evidence-dashboard.png)
+
+[未来前台案例](docs/未来前台客户交付方案.md) · [开发与 Agent 指引](AGENTS.md) · [许可证](LICENSE)
+
+## 启动、接入和技术参考
+
+<details>
+<summary>展开项目手册与 Agent 指引</summary>
+
+# GeoEvidence Studio
+
 **把“AI 有没有提到我们、引用了谁、有没有负面”变成一套可复核、可复盘、可持续优化的 GEO 经营系统。**
 
 [English README](README.en.md) · [客户业务负责人使用指南](docs/客户业务负责人使用指南.md) · [未来前台实施方案](docs/未来前台客户交付方案.md)
@@ -365,3 +394,6 @@ Apache-2.0。
 - 上游提交：`f608da6cfae516577bf3c2db3ee9478946a9ea76`
 
 WorkLoom 原始 README 保留在 [docs/UPSTREAM-WORKLOOM-README.md](docs/UPSTREAM-WORKLOOM-README.md)，上游 CNB/桌面发布 workflows 保留在 `docs/upstream-workflows/`。
+
+
+</details>
