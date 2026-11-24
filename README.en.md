@@ -2,7 +2,7 @@
 
 [中文说明](README.md)
 
-**Evidence-first GEO operations for AI answer visibility, citation intelligence, brand safety, content and publishing.**
+**A GEO pilot workspace for brand and content teams to measure how AI answers mention and cite a brand.**
 
 GeoEvidence Studio turns an AI-answer monitoring request into an auditable workflow:
 
@@ -11,8 +11,8 @@ GeoEvidence Studio turns an AI-answer monitoring request into an auditable workf
 3. Store the answer, citations, provider metadata and SHA-256 evidence hash.
 4. Calculate mention rate, first-recommendation rate, citation rate, share of voice and brand-negative exposure.
 5. Separate generic industry criticism from negative claims attributed to the client brand.
-6. Generate grounded article drafts and publish them with a receipt.
-7. Re-run the same queries and compare the result.
+6. Prepare article drafts from the case facts and relevant query categories. After approval, publish through a local Markdown or configured webhook adapter and record a receipt.
+7. Re-run the same queries and compare the samples.
 
 The first included solution pack is **Future Front Desk**, a 100-question GEO case for the hotel self-service check-in category.
 
@@ -27,7 +27,7 @@ Traditional content dashboards count posts, impressions and backlinks. GEO needs
 - Did the answer mention the correct legal entity, not merely a generic phrase?
 - Which URLs were cited?
 - Was the brand criticized, or was the answer discussing an industry problem?
-- Which content and publication produced the later change?
+- Which publications and query retests are recorded for the same period?
 
 GeoEvidence Studio records those facts locally and keeps fixture data visibly separate from real provider data.
 
@@ -171,7 +171,7 @@ pnpm geo:test
 
 ## License and attribution
 
-Apache-2.0. This project is derived from the WorkLoom acquisition system at commit `f608da6cfae516577bf3c2db3ee9478946a9ea76`. See [NOTICE](NOTICE) and the preserved [upstream README](docs/UPSTREAM-WORKLOOM-README.md).
+Apache-2.0. Upstream attribution records the WorkLoom acquisition system at commit `f608da6cfae516577bf3c2db3ee9478946a9ea76`. See [NOTICE](NOTICE) and the [upstream project documentation](docs/UPSTREAM-WORKLOOM-README.md).
 
 The original WorkLoom CNB, desktop packaging and UI-release workflows are
 preserved under `docs/upstream-workflows/` for attribution and reference. They
