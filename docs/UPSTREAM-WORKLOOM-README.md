@@ -22,7 +22,7 @@ WorkLoom 获客增长系统面向企业增长与内容运营团队，把目标�
 
 本仓身份是 `workloom-ai-acquisition`，角色为 `industry`，默认行业包为 `geo-growth`。它与实验车道 `WorkLoom-growth` 以及 `workloom-growthtest`、`workloom-growthmatrix` 两个隔离副本是不同实例；不把其它仓库的实验能力合并算入本仓。酒店包是组合依赖和垂直业务样例，不代表这里已经接通真实 PMS、OTA、支付或所有酒店经营数据。来源：[product.manifest.json](product.manifest.json)、[主包 manifest](bundles/geo-growth/bundle.json)。
 
-> 代码基线：本仓当前代码由实验车道 `WorkLoom-growth@2edea37` 全量复刻而来（2026-09-29，任务卡 `[T-2026-0929-0006]`），复刻时只改产品身份与配套名称（`productId`、`appId`、仓库标识、桌面端口偏移、README 与随仓文档），行为代码未做二次加工。两仓后续若继续并行演进，合入本仓前请按上面的功能状态表逐条核对真实回执。
+> 历史版本记录（2026-09-29，任务卡 `[T-2026-0929-0006]`）登记了实验车道 `WorkLoom-growth@2edea37` 作为当时的代码参考点。该任务登记的调整范围包括 `productId`、`appId`、仓库标识、桌面端口偏移、README 与随仓文档。后续变更合入前，按本页功能状态表逐项核对实际回执。
 
 ## 功能状态：代码做到哪里
 
